@@ -1,5 +1,5 @@
 # SI202-Res-Problemas
-Repositório dedicado à disciplina de Resolução de Problemas do segundo semestre de 2020
+Repositório dedicado à disciplina de Resolução de Problemas do segundo semestre de 2020 <br/>
 Grupo da disciplina: <br/>
 
 Nome, RA: <br/>
