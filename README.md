@@ -11,6 +11,6 @@ Karina Sayuri Hagiwara               171419 <br/>
 Keyth Kazumi Kanashiro               200669 <br/>
 Leonardo Alberto Da Ponte            220007 <br/>
 
-Link para Google Colab do projeto: 
+Clique na imagem abaixo para visitar Google Colab do projeto: 
 
 [<img src="https://miro.medium.com/max/3880/1*7oukapIBInsovpHkQB3QZg.jpeg" width="100"/>](https://colab.research.google.com/drive/1WK1VPbU8eX7A702Ko0STaRfkW9zxKVeN?usp=sharing)
