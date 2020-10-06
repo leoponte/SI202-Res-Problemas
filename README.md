@@ -1,10 +1,10 @@
 # SI202-Res-Problemas
 Repositório dedicado à disciplina de Resolução de Problemas do segundo semestre de 2020
-Grupo da disciplina:
+Grupo da disciplina: <br/>
 
 Nome, RA:
-Carlos Henrique Da Silva Cirqueira   195417
-Guilherme Masao Tsuyukubo            217250
-Karina Sayuri Hagiwara               171419
-Keyth Kazumi Kanashiro               200669
-Leonardo Alberto Da Ponte            220007
+Carlos Henrique Da Silva Cirqueira   195417 <br/>
+Guilherme Masao Tsuyukubo            217250 <br/>
+Karina Sayuri Hagiwara               171419 <br/>
+Keyth Kazumi Kanashiro               200669 <br/>
+Leonardo Alberto Da Ponte            220007 <br/>
